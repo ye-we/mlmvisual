@@ -27,7 +27,9 @@ const vv = [
     left: null,
     right: null,
   },
-  { id: 6, name: "f", left: null, right: null }
+  { id: 6, name: "f", left: null, right: null },
+//   {}
+  
 ];
 
 const cc = (list) => {
