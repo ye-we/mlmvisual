@@ -7,12 +7,6 @@ import Node from "@/components/Node";
 const inter = Inter({ subsets: ["latin"] });
 
 const vv = [
-  {
-    id: 1,
-    name: "a",
-    left: 2,
-    right: 3,
-  },
   { id: 2, name: "b", left: 4, right: 5 },
   { id: 3, name: "c", left: 6, right: 7 },
   {
@@ -26,18 +20,7 @@ const vv = [
     name: "e",
     left: null,
     right: null,
-  },
-  { id: 6, name: "f", left: null, right: null },
-  // { id: 7, name: "g", left: null, right: null },
-  // {
-  //   id: 8,
-  //   name: "h",
-  //   left: null,
-  //   right: null,
-  // },
-  // {
-  // something new here
-  // }
+
 ];
 
 const cc = (list) => {
