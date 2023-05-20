@@ -20,7 +20,7 @@ const vv = [
     name: "e",
     left: null,
     right: null,
-  }
+
 ];
 
 const cc = (list) => {
